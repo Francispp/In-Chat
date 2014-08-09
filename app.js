@@ -1,5 +1,5 @@
 /**
-	* Node.js game
+	* Node.js chat
 	* Copyright (c) 2013 Memo Ma
 **/
 
