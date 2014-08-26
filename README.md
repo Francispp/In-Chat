@@ -1,6 +1,4 @@
 Chat-APP
 ========
 
-web chat app
-
-realtime web chating app~
+nodeJS web chat app 网页聊天应用 
